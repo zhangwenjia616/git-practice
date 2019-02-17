@@ -5,3 +5,4 @@ test commit amend
 1
 2
 3
+Test for merge by me
