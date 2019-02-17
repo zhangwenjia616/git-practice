@@ -6,3 +6,4 @@ test commit amend
 2
 3
 Test for merge by me
+Test for rebase by me
