@@ -7,4 +7,4 @@ test commit amend
 3
 Test for merge by me
 Test for rebase by me
-Test rebase -i 1
+
