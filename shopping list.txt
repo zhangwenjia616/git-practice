@@ -9,3 +9,4 @@ Test for merge by me
 Test for rebase by me
 
 Test rebase -I
+Test rebase -I 2
