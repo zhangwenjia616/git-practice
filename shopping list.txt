@@ -8,3 +8,4 @@ test commit amend
 Test for merge by me
 Test for rebase by me
 
+Test rebase -I
