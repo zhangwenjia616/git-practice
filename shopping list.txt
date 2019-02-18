@@ -10,3 +10,5 @@ Test for rebase by me
 
 Test rebase -I
 Test rebase -I 2
+
+Test rebase -i -2
